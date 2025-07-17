@@ -1,0 +1,3 @@
+ID,Titre,Description,Prix,Media,TarifsJSON
+1,Produit Vidéo,Une courte description,19.99,https://www.w3schools.com/html/mov_bbb.mp4,"{{'1':19.99,'5':17.99,'10':15.99}}"
+2,Produit Image,Description plus longue ici,29.99,https://via.placeholder.com/300,"{{'1':29.99,'3':27.99,'6':25.99}}"
